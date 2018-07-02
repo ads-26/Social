@@ -18,9 +18,3 @@ urlpatterns = [
 
 
 ]
-"""
-admin
-aditi
-aditi@gmail
-aditi@1234
-"""
